@@ -1,0 +1,10 @@
+//Test script for Applet 'PBOC3Applet'
+
+powerup;
+// Select PBOC3Applet //aid/27CB3744DD/C9157F
+0x00 0xA4 0x04 0x00 0X08 0X27 0XCB 0X37 0X44 0XDD 0XC9 0X15 0X80 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;
